@@ -1,0 +1,13 @@
+.env
+.DS_Store
+node_modules
+audio/*
+!audio/.gitkeep
+captions/*
+!captions/.gitkeep
+output/*
+!output/.gitkeep
+logs.txt
+data/published.json
+data/top_performers.json
+data/monetization_status.json
